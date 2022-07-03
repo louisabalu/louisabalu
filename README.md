@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @louisabalu - a Systems Analyst with experience product & service mgmt in mobile telephony. 
+- 👋 Hi, I’m @louisabalu - a Systems Analyst with experience in product & service mgmt in mobile telephony. 
 - 👀 I’m interested in problem solving through programming.
 - 🌱 I’m currently learning programming in Python
 - 💞️ I’m looking to learn and grow my skills via internships on real world applications.
